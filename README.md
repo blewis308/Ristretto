@@ -42,7 +42,7 @@ Included in each kit is the following:
 #### Bottom Plate
 ![Bottom Plate](img/bottom.jpeg)
 #### Switch Plate
-![Switch Plate](img/palte.jpeg)
+![Switch Plate](img/plate.jpeg)
 #### Assembled PCB
 ![PCB](img/pcb.jpeg)
 #### OLED Module
@@ -62,4 +62,41 @@ Included in each kit is the following:
 ### Total Estimated Time: 1 hour
 
 #### Before you begin!
-Please test your PCB. These were all tested before shipping, but double check that all the switches work by shorting them with a pair of conductive tweezers. As soon as a soldering iron touches the board, I cannot 
+Please test your PCB. These were all tested before shipping, but double check that all the switches work by shorting them with a pair of conductive tweezers. As soon as a soldering iron touches the board, I am no longer able to issue a refund/replacement. Please refer to the [terms and conditions](https://www.fruitykeeb.xyz/terms-and-conditions) listed on my site for more info.
+
+Note about this guide: For this guide, I am building a board with the OLED and no encoder - instead of the encoder there is a switch in its place. I will still point out where the encoder goes.
+
+### Step 0: Solder the Encoder (optional)
+![Step 0 thx dood](https://raw.githubusercontent.com/doodboard/tutorial/main/img/encoder_1.jpg)
+The encoder goes at the bottom middle of the PCB. **Make sure the legs stick through to the side with the all the components on it.**
+
+If you are millmaxing the board, do that now - as well as stabilizers. Check the KLE [here](http://www.keyboard-layout-editor.com/#/gists/95d1aea85be3f3f5c29b4fbeddd9893c).
+
+### Step 1: Put some switches into the plate
+![Step 1](img/step1.jpeg)
+I usually put 5 or 6 on each side in the locations shown, this just helps keep the plate up when you are putting in the rest. 
+
+### Step 2: Flip the plate over and put the PCB on
+![Step 2](img/step2.jpeg)
+Please be gentle, but 5 pin switches will need some force as the pin tolerances are tight.
+
+### Step 3: Solder those switches in place
+![Step 3](img/step3.jpeg)
+
+### Step 4: Flip the board back over and insert the remaining
+![Step 4](img/step4.jpeg)
+Here is where you do the thumb layouts... I may have been dumb and not put any notes *on* the pcb, but I'll drop that here.
+![PCB Notes](img/layouts.jpeg)
+
+### Step 5: Flip the board over again (flip flop flip flop) and solder all the switches
+![Step 5](img/step5.jpeg)
+
+### Step 6: Flip the board back over again and insert the OLED module (optional)
+![Step 6](img/step6.jpeg)
+Use some tape to hold this in when you flip the board over... again.
+
+### Step 7: Flip the board over yet again and solder in the OLED module
+![Step 7](img/step7.jpeg)
+This is kinda tricky as the tolerances are tight, but the legs should *just* poke through the PCB
+
+### Step 8: 
