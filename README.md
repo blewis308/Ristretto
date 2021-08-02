@@ -34,6 +34,8 @@ There are some items you will need in order to build your Ristretto
 ### Optional
 
 * Flux - if you are not using leaded solder, flux is recommended
+* a little bit of tape
+* a sick [P3D Acrylic case](https://p3dstore.com/collections/40-or-smaller-acrylic-cases/products/ristretto-acrylic-gasket-mount-keyboard-case) from the [P3D Store](https://p3dstore.com/collections/40-or-smaller-acrylic-cases/products/ristretto-acrylic-gasket-mount-keyboard-case)! 
 
 <br/>
 
@@ -66,6 +68,8 @@ Included in each kit is the following:
 Please test your PCB. These were all tested before shipping, but double check that all the switches work by shorting them with a pair of conductive tweezers. As soon as a soldering iron touches the board, I am no longer able to issue a refund/replacement. Please refer to the [terms and conditions](https://www.fruitykeeb.xyz/terms-and-conditions) listed on my site for more info.
 
 Note about this guide: For this guide, I am building a board with the OLED and no encoder - instead of the encoder there is a switch in its place. I will still point out where the encoder goes.
+
+PS. If you are using the [P3D Acrylic case](https://p3dstore.com/collections/40-or-smaller-acrylic-cases/products/ristretto-acrylic-gasket-mount-keyboard-case) (highly recommended!! it's super cool!!), make sure you follow [Jake's instructions](https://p3dstore.com/pages/revised-acrylic-gasket-case-build-guide) to put together your case!
 
 ### Step 0: Solder the Encoder (optional)
 ![Step 0 thx dood](https://raw.githubusercontent.com/doodboard/tutorial/main/img/encoder_1.jpg)
