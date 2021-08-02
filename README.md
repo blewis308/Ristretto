@@ -53,8 +53,8 @@ Included in each kit is the following:
 * EC11 Encoder
 #### Screws and Standoffs
 ![Screws and Standoffs](img/screws.jpeg)
-* Screws are M2 x 6mm
-* Standoffs are M2 x 10mm
+* Screws are M2 x 6mm - 16 qty
+* Standoffs are M2 x 10mm - 8 qty
 #### Rubber Feet
 ![Rubber Feetsies](img/rubber_feet.jpeg)
 
@@ -78,12 +78,12 @@ I usually put 5 or 6 on each side in the locations shown, this just helps keep t
 
 ### Step 2: Flip the plate over and put the PCB on
 ![Step 2](img/step2.jpeg)
-Please be gentle, but 5 pin switches will need some force as the pin tolerances are tight.
+Please be gentle as 5 pin switches will need some force because the tolerances are tight.
 
 ### Step 3: Solder those switches in place
 ![Step 3](img/step3.jpeg)
 
-### Step 4: Flip the board back over and insert the remaining
+### Step 4: Flip the board back over and insert the remaining switches
 ![Step 4](img/step4.jpeg)
 Here is where you do the thumb layouts... I may have been dumb and not put any notes *on* the pcb, but I'll drop that here.
 ![PCB Notes](img/layouts.jpeg)
@@ -93,10 +93,21 @@ Here is where you do the thumb layouts... I may have been dumb and not put any n
 
 ### Step 6: Flip the board back over again and insert the OLED module (optional)
 ![Step 6](img/step6.jpeg)
+
 Use some tape to hold this in when you flip the board over... again.
 
-### Step 7: Flip the board over yet again and solder in the OLED module
+### Step 7: Flip the board over yet again, solder in the OLED module, and add the screws and standoffs to the plate
 ![Step 7](img/step7.jpeg)
-This is kinda tricky as the tolerances are tight, but the legs should *just* poke through the PCB
+This is kinda tricky as the tolerances are tight, but the legs should *just* poke through the PCB.
 
-### Step 8: 
+### Step 8: Add the bottom plate on and screw it in, add the rubber feet
+![Step 8](img/step8.jpeg)
+I recommend putting the rubber feetsies right on the inside of the screws, but you can put them just about anywhere you want. 
+
+What? It's not like I know where you live and will show up at your house one night and force you to put them in a decent location. But hey, you do you. :clap:
+
+### Step 9: Add keycaps and drooool :cold_sweat:
+![Step 9](img/step9.jpeg)
+Oh yeah, that's a hot board. Nice job :ok_hand:
+
+> Keycaps used in pic is DSS Lights Out from RingerKeys
