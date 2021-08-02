@@ -99,7 +99,7 @@ Here is where you do the thumb layouts... I may have been dumb and not put any n
 ### Step 6: Flip the board back over again and insert the OLED module (optional)
 ![Step 6](img/step6.jpeg)
 
-Use some tape to hold this in when you flip the board over... again.
+Use some tape to hold this in until it is soldered.
 
 ### Step 7: Flip the board over yet again, solder in the OLED module, and add the screws and standoffs to the plate
 ![Step 7](img/step7.jpeg)
