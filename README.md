@@ -6,9 +6,10 @@ Here is a comprehensive hub for the Ristretto Keyboard, written by **Fruit**
 ## Repository Contents:
 * firmware
     * everything firmware related including keymaps, hex's, and more!
+    * Check out the [QMK Repo](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ristretto) for big firmware releases.
 * open source
     * all the pieces of this board that will be free for use (i.e. plate files, midplate stl, etc.)
-    * *Please note:* if the file does not exist in here, it is not open source and unauthorized copying of the files, via any medium is strictly prohibited.
+    * *Please note:* if the file does not exist in here, it is not open source and unauthorized copying of the files via any medium is strictly prohibited.
 * img
     * image files for this page.
 
@@ -85,8 +86,8 @@ Please be gentle as 5 pin switches will need some force because the tolerances a
 
 ### Step 4: Flip the board back over and insert the remaining switches
 ![Step 4](img/step4.jpeg)
-Here is where you do the thumb layouts... I may have been dumb and not put any notes *on* the pcb, but I'll drop that here.
-![PCB Notes](img/layouts.jpeg)
+Here is where you do the thumb layouts... I may have been dumb and not put any notes *on* the pcb, but I'll drop that here. (I know, I am bad a ms paint)
+![PCB Notes](img/switches_edited.jpeg)
 
 ### Step 5: Flip the board over again (flip flop flip flop) and solder all the switches
 ![Step 5](img/step5.jpeg)
