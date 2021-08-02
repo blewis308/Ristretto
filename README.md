@@ -111,4 +111,6 @@ What? It's not like I know where you live and will show up at your house one nig
 ![Step 9](img/step9.jpeg)
 Oh yeah, that's a hot board. Nice job :ok_hand:
 
+Post some pics in the [Fruitkeeb Discord](https://discord.gg/Qzrua9V2Ec) and show off your hard work!!
+
 > Keycaps used in pic is DSS Lights Out from RingerKeys
