@@ -87,7 +87,7 @@ Please be gentle as 5 pin switches will need some force because the tolerances a
 ### Step 4: Flip the board back over and insert the remaining switches
 ![Step 4](img/step4.jpeg)
 Here is where you do the thumb layouts... I may have been dumb and not put any notes *on* the pcb, but I'll drop that here. (I know, I am bad a ms paint)
-![PCB Notes](img/switches_edited.jpeg)
+![PCB Notes](img/switches_edited.jpg)
 
 ### Step 5: Flip the board over again (flip flop flip flop) and solder all the switches
 ![Step 5](img/step5.jpeg)
