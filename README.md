@@ -10,6 +10,7 @@ Here is a comprehensive hub for the Ristretto Keyboard, written by **Fruit**
 * open source
     * all the pieces of this board that will be free for use (i.e. plate files, midplate stl, etc.)
     * *Please note:* if the file does not exist in here, it is not open source and unauthorized copying of the files via any medium is strictly prohibited.
+    * midLayer.stl scale is fucked, scale it so z-axis is 10mm tall
 * img
     * image files for this page.
 
