@@ -76,7 +76,7 @@ PS. If you are using the [P3D Acrylic case](https://p3dstore.com/collections/40-
 ![Step 0 thx dood](https://raw.githubusercontent.com/doodboard/tutorial/main/img/encoder_1.jpg)
 The encoder goes at the bottom middle of the PCB. **Make sure the legs stick through to the side with the all the components on it.**
 
-####If you are millmaxing the board, do that now - **as well as stabilizers**. Check the KLE [here](http://www.keyboard-layout-editor.com/#/gists/95d1aea85be3f3f5c29b4fbeddd9893c).
+#### If you are millmaxing the board, do that now - **as well as stabilizers**. Check the KLE [here](http://www.keyboard-layout-editor.com/#/gists/95d1aea85be3f3f5c29b4fbeddd9893c).
 
 ### Step 1: Put some switches into the plate
 ![Step 1](img/step1.jpeg)
